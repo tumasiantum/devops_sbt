@@ -1,0 +1,2 @@
+docker build -t javaapp:demo .
+docker run  javaapp:demo
